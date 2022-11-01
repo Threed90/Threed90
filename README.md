@@ -1,7 +1,9 @@
 <h3 align="center">
-Welcome to the profile of Dimitar Dimitrov Dimitrov a.k.a. Threed
-<img src="https://github.com/Threed90/Threed90/blob/main/assets/webDeveloper.gif" alt="web developer" width="28">
-<img src="https://github.com/Threed90/Threed90/blob/main/assets/freelancer.gif" alt="freelancer" width="28">
+Welcome to the profile of Dimitar Dimitrov Dimitrov a.k.a. Threed 
+<br>
+<img src="https://github.com/Threed90/Threed90/blob/main/assets/webDeveloper.gif" alt="web developer" width="150">
+<br>
+<img src="https://github.com/Threed90/Threed90/blob/main/assets/freelancer.gif" alt="freelancer" width="150">
 </h3>
 
 
