@@ -21,7 +21,7 @@
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/twitter.png" alt="twitter" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
     <a href="https://www.youtube.com/channel/UCl_rovCLoJzno-DdQzIhmEw">
-        <img src="https://github.com/Threed90/Threed90/blob/main/assets/youtube.png" alt="youtube" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
+        <img src="https://github.com/Threed90/Threed90/blob/main/assets/youtube_v2.png" alt="youtube" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
     <a href="https://m.me/Threedx3">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/messenger.png" alt="messenger" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
@@ -36,7 +36,7 @@
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/discord.png" alt="discord" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
     <a href="https://us04web.zoom.us/j/5911356767?pwd=c25KSERBREVmVjhaU21JYlNJbnNQdz09">
-        <img src="https://github.com/Threed90/Threed90/blob/main/assets/zoom.png" alt="zoom" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
+        <img src="https://github.com/Threed90/Threed90/blob/main/assets/zoom_v2.png" alt="zoom" width="50" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
 </div>
 
