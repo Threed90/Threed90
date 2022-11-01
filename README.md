@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">
+Welcome to the profile of Dimitar Dimitrov Dimitrov a.k.a. Threed
+<img src="" alt="web developer" width="28">
+<img src="" alt="freelancer" width="28">
+</h3>
+
+
+
 
 <!--
 **Threed90/Threed90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
