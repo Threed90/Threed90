@@ -29,9 +29,9 @@
     <a href="https://t.me/Threed90">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/telegram.png" alt="telegram" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="viber://chat?number=%2B359885726348">
+    <!-- <a href="viber://chat?number=%2B359885726348">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/viber.png" alt="viber" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
-    </a>
+    </a> -->
     <a href="https://discordapp.com/users/threed#2957">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/discord.png" alt="discord" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
