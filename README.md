@@ -8,34 +8,34 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://www.facebook.com/Threedx3/">
+    <a href="https://www.facebook.com/Threedx3/" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/facebook.png" alt="facebook" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
     <a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B8%D1%82%D1%8A%D1%80-%D0%B4%D0%B8%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2-492038191/">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/linkedin.png" alt="linkedin" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="https://www.instagram.com/threed90/">
+    <a href="https://www.instagram.com/threed90/" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/instagram.png" alt="instagram" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="https://twitter.com/Threed_bg">
+    <a href="https://twitter.com/Threed_bg" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/twitter.png" alt="twitter" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="https://www.youtube.com/channel/UCl_rovCLoJzno-DdQzIhmEw">
+    <a href="https://www.youtube.com/channel/UCl_rovCLoJzno-DdQzIhmEw" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/youtube_v2.png" alt="youtube" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="https://m.me/Threedx3">
+    <a href="https://m.me/Threedx3" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/messenger.png" alt="messenger" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="https://t.me/Threed90">
+    <a href="https://t.me/Threed90" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/telegram.png" alt="telegram" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <!-- <a href="viber://chat?number=%2B359885726348">
+    <!-- <a href="viber://chat?number=%2B359885726348" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/viber.png" alt="viber" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a> -->
-    <a href="https://discordapp.com/users/threed#2957">
+    <a href="https://discordapp.com/users/threed#2957" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/discord.png" alt="discord" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
-    <a href="https://us04web.zoom.us/j/5911356767?pwd=c25KSERBREVmVjhaU21JYlNJbnNQdz09">
+    <a href="https://us04web.zoom.us/j/5911356767?pwd=c25KSERBREVmVjhaU21JYlNJbnNQdz09" style="margin:30px;">
         <img src="https://github.com/Threed90/Threed90/blob/main/assets/zoom_v2.png" alt="zoom" width="30" creator="Facebook icons created by Pixel perfect - Flaticon">
     </a>
 </div>
